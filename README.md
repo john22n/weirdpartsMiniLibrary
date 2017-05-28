@@ -1,0 +1,2 @@
+# weirdpartsMiniLibrary
+js mini library
